@@ -1,7 +1,8 @@
 # 🩸 Bone-Marrow-Cancer-Analysis
 This Bone Marrow Cancer dataset provides comprehensive insights into the global burden, survival outcomes, treatment effectiveness, risk factors, and long-term disease trends associated with bone marrow cancers.
 
-The dataset integrates multiple healthcare-related tables that cover different aspects of the disease, including country-level statistics, survival outcomes, treatment performance, cancer subtypes, risk factors, and global trends from 2000 to 2026
+The dataset integrates multiple healthcare-related tables that cover different aspects of the disease, including country-level statistics, survival outcomes, treatment performance, cancer subtypes, risk factors, and global trends
+from 2000 to 2026
 ________________________________________
  
 ## 🎯 Project Objectives
