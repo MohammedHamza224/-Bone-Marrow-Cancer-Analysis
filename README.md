@@ -6,12 +6,12 @@ ________________________________________
  
 ## 🎯 Project Objectives
 
-- 🌍 Analyze the global burden of bone marrow cancers.
-- 📊 Compare survival outcomes across regions and cancer types.
-- 💉 Evaluate treatment effectiveness and response rates.
-- ⚠️ Identify major risk factors.
-- 📈 Explore incidence and mortality trends over time.
-- 💡 Generate actionable insights through data visualization.
+ 🌍 Analyze the global burden of bone marrow cancers.
+ 📊 Compare survival outcomes across regions and cancer types.
+ 💉 Evaluate treatment effectiveness and response rates.
+ ⚠️ Identify major risk factors.
+ 📈 Explore incidence and mortality trends over time.
+ 💡 Generate actionable insights through data visualization.
 ________________________________________
 ## 🗂️ Dataset Tables
 
